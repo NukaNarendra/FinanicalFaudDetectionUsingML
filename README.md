@@ -19,6 +19,9 @@ This project leverages **machine learning and anomaly detection** to detect frau
    - Build a **Flask + Dash** web app to visualize fraudulent transactions.
    - Display fraud trends and transaction anomalies using **Plotly charts**.
 
+##  Notice
+Due to memory constraints, the dataset is not provided.
+
 ##  Project Structure
 
 ### **1. `fraud.ipynb` (Main Code)**
