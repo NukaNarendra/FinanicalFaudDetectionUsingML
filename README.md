@@ -39,6 +39,7 @@ Due to memory constraints, the dataset is not provided.
 3. **fraud.csv**
    - Sample dataset containing financial transactions and fraud labels.
 
+-keep all HTML files in a folder called templates
 4. **Templates/**
    - `form.html`: Web form to enter transaction details.
    - `result.html`: Displays prediction results.
